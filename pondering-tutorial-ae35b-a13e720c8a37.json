@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pondering-tutorial-ae35b",
+  "private_key_id": "a13e720c8a37ec28dcb86c212ffda36f773b581c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMdS3UFKIm+YtV\nY8I2ughXMhxZGq4jTsfE3B1pvrlQc0pbOO5pZ3+ypaRIRu6muJU+OLabg2KSWNUd\nLY9hZ3jUn/k4J81cih8baAuIHdmZZg1SYrOEROv4D3WJcShIrdFs71JkPtKcZFqj\npcdGqxy94pt7xhI79WFpDs/6+oOAU31yxsvcPlcAOtc2gZQ+Ur8nvZjZQ+DZntsJ\ncFA/qbe0YHQ391uZ7Mhk7Nv7S6rFqctlome4MA/T1vgY/SEn3T411lSTJqTtZyEa\nFhVXuPIMA6VrdOIIQTllM4iTzuee9aVcEr1VxU4UxQfCgI7vBkyD8Pvrt3Y5g+H9\nzf6kGOB3AgMBAAECggEAZZoPiZYtVE/q6SaXUynUTjx1MORcx+f0xwOZTDy+i1eX\nikh61X9cynKc9lvlaY1NgOue9x3txIsHcKX82+sW9RaAOuMwnr12ouBr5prq0NuR\nYDDzQ5Yaax2Hi6LjYWabLVaqa216rMQD9NHDev86W7Q6DuKJmikg3JvDR9XotkIj\nGgvF0g8JXFmp/CnwFgvluy6SsG9h9Rh7sjYl5jDxSMSA90v2CBGxQGb64mfMfUdK\n9RhjfeSNxmfEJllsll3tBubjxZoyk2QaMUvtQYFFbVrNTs32bD2Sijo6icjNgwRG\nlQOCNIzDALsNHCzeKfW2a7aVNo8E99fBHcKhDaWkuQKBgQD15wjlJwNKiCFHGMgu\nGVYmrgo40cHlRYF8lFlCXaF7hs5kVjLdOoJXJlEJbgWzXfSwbUvOr40zdUMgkoTN\nkGOedSNrZGnlQVXVVpVSebFlOce2F16OycO3xLstDHvpD6wFv3/hW4SzNtAKqwku\nZuLEtPq7V3XfaFnMyCh5fia3bwKBgQDU2nh5ORHZF9m/fESlw6wx+v5Kovtf8V6P\n/ktIeSE7Yed2L2pEYoXcjYHycnaazX/9TBUVPKA04EvzzooRgmGOQ6Yy7EKuG2BL\nVwqgt6xqM8E7zao5dbH9Ro353E9vZGPagD1LgtegUoR2JaKdlR0Z+hHE1CEs/axb\nWn2+NsgjeQKBgBT8T5UG3FALCBQCOGs+vEx2w+aPeCWx5dgU7P0t8m8RVSHY/WRF\n7wOzAG12l0P0e8JmwXZ1Iu7GTiFEf9LvRKEsTAaJPkRTbBjV185/FjWWVcXjfq1e\n6LYRMwwoKZb9QGgJLMe1wMBuqBiQ+iqcmzPAYjmEwEl9pVRFrLaZnoI/AoGBAMel\nz8BsbjhBbcV06vLMkVQkB6a8Lqo0PK01KSnmK+yGDVPGb5eLDeHsfQmKoYLb5AQS\n++d6gQ53n+YkQU7hC14kR9yVzImANhcUomxTO4410zaj1tmkcnmNVxgYtA1YjWxi\nQpv0Mwo2u/YRoPDL74rxCv+itSd9HNBnFXB388uJAoGBANB/X6pTvXJFiBVXERlf\nEXhQfYJjkcu2cEYdhhxB2MT36c57HlkOIO0iulBaaKGWEPjqbrN28MDlNGQ1zy90\nYLePN7ZNlNej5xB1q47VFuJ2xKbeA69PTYyU9260FwDnajpqA2dXfIaVdX2gF3i5\nxfj7HNMgFkv8Prv48KDBxaKZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f4m1k@pondering-tutorial-ae35b.iam.gserviceaccount.com",
+  "client_id": "104041777886076273522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f4m1k%40pondering-tutorial-ae35b.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
